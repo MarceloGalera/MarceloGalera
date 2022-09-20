@@ -4,10 +4,10 @@
 
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Java and SQL
-- 💬 Ask me about anything!
+- 🌱 I’m currently learning Java, SQL and .NET
+- 💬 Ask me about anything! I'd love to chat!
 - 📫 How to reach me: marcelo_galera@hotmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a one piece fan!
 
 <div align="center">
