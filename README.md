@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Java, SQL and .NET
+- 🌱 I’m currently learning Java, Spring, SQL, NoSQL and .NET
 - 💬 Ask me about anything! I'd love to chat!
 - 📫 How to reach me: marcelo_galera@hotmail.com
 - 😄 Pronouns: he/him
