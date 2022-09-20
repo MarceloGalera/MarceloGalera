@@ -10,10 +10,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not Batman!
   
-  <a href="https://github.com/MarceloGalera/github-readme-stats">
+  <a href="https://github.com/MarceloGalera/MarceloGalera">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloGalera&show_icons=true&theme=dracula&count_private=true" alt="Marcelo's github stats" />
   </a>
-  <a href="https://github.com/MarceloGalera/github-readme-stats">
+  <a href="https://github.com/MarceloGalera/MarceloGalera">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGalera&layout=compact&langs_count=7&theme=dracula" />
   </a>
   
