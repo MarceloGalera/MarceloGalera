@@ -9,12 +9,14 @@
 - 📫 How to reach me: marcelo_galera@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not Batman!
-
-<div align="center">
-  <a href="https://github.com/MarceloGalera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloGalera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGalera&layout=compact&langs_count=7&theme=dracula"/>
+  
+<div>
+<a href="https://github.com/MarceloGalera/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloGalera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelo's github stats" /> </a>
+<a href="https://github.com/MarceloGalera/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGalera&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
+  
   
   <br>
   
