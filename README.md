@@ -8,7 +8,7 @@
 - 💬 Ask me about anything! I'd love to chat!
 - 📫 How to reach me: marcelo_galera@hotmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm a one piece fan!
+- ⚡ Fun fact: I'm a One Piece fan!
 
 <div align="center">
   <a href="https://github.com/MarceloGalera">
