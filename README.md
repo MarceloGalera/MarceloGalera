@@ -9,14 +9,15 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not Batman!
   
+  <br>
+  
   <div align="center">
   <a href="https://github.com/MarceloGalera/MarceloGalera">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloGalera&show_icons=true&theme=dracula&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGalera&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   
-  
-  <br><br>
+   <br>
   
   <div style="display: inline_block">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -28,7 +29,7 @@
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   </div>
   
-   <br>
+  <br>
     
   <div>
   <a href="https://instagram.com/marcelo_galera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
