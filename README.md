@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Spring, .NET, NoSQL and AWS Cloud
+- 🌱 I’m currently learning .NET 6, SQL and AWS Cloud
 - 💬 Ask me about anything! I'd love to chat!
 - 📫 How to reach me: marcelo_galera@hotmail.com
 - 😄 Pronouns: he/him
