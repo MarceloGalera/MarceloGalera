@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on back-end
+- 🔭 I’m currently working on Full Stack
 - 🌱 I’m currently learning .NET, React, SQL, AWS and Azure Cloud
 - 💬 Ask me about anything! I'd love to chat!
 - 📫 How to reach me: marcelo_galera@hotmail.com
